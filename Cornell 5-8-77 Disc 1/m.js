@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 New Minglewood Blues.mp3";		
+f[2]	= "03 El Paso.mp3";		
+f[3]	= "04 They Love Each Other.mp3";		
+f[4]	= "05 Jack Straw.mp3";		
+f[5]	= "07 Lazy Lightning.mp3";		
+f[6]	= "09 Brown-Eyed Woman.mp3";		
+f[7]	= "10 Mama Tried.mp3";		
+f[8]	= "11 Row Jimmy.mp3";		
+f[9]	= "Deal.mp3";		
+f[10]	= "Loser.mp3";		
+f[11]	= "Supplication.mp3";		
